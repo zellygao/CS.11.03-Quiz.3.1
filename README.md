@@ -6,11 +6,17 @@ Ensure that you read all instructions carefully. Do not include any additional m
 1. Inside the Main class, complete the method calculateGrade. This method will take an integer argument and return a character that corresponds to the letter grade associated with a score. 
 
 90 and above = A
+
 80 to 89 = B
+
 70 to 79 = C
+
 60 to 69 = D
+
 50 to 59 = E
+
 49 and below = F
+
 
 calculateGrade(90);	// Returns ‘A’
 calculateGrade(79);	// Returns ‘C’
