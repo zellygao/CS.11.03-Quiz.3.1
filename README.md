@@ -34,7 +34,7 @@ fizzBuzz(15); 	// Returns “fizzbuzz”
 fizzBuzz(16);	// Returns “unlucky”
 
 
-3. Inside the Main class, complete the method frontBack. This method will take a String as an argument and return a String that has the first two characters of the original string passed added to the front and to the end of the original string. If the argument is less than two characters in length, return the argument. 
+3. Inside the Main class, complete the method frontBack. This method will take a String as an argument and return a String that has the first two characters of the original String passed added to the front and to the end of the original string. If the argument is less than two characters in length, return the argument. 
 
 frontBack(“hello”);	// Returns “hehellohe”
 
@@ -53,7 +53,7 @@ twoAsOne(4,11,-7);	// Returns true as 11+-7=4
 twoAsOne(4,6,12);	// Returns false
 
 
-5. Inside the Main class, complete the method endUp. This method will take a String as an argument and return a string where the last three characters have been capitalized. If there are less than three characters in the argument, then capitalize all of the characters. 
+5. Inside the Main class, complete the method endUp. This method will take a String as an argument and return a String where the last three characters have been capitalized. If there are less than three characters in the argument, then capitalize all of the characters. 
 
 endUp(“hello”);	// Returns “heLLO”
 
